@@ -10,10 +10,11 @@ Before running the script, ensure you have the following:
 ### Usage
 1. Clone the repository:
    
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone [LiteSniff](https://github.com/MPranav1/LiteSniff.git)
+
+   cd LiteSniff
    
-2. Run the script:
+3. Run the script:
 
    python sniffer.py
    Make sure to use Python 3.
